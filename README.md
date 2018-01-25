@@ -1,6 +1,4 @@
 # MySQLwithNode.js
-# MySQLwithNode.js
-MySQLwithNode.js
 
 
 ![screenshot 1 mysql database](https://user-images.githubusercontent.com/30198872/35378263-2fef00ac-0180-11e8-9019-58f18b01e16f.png)
