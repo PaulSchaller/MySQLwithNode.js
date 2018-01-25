@@ -35,9 +35,8 @@ This is a very interactive program that allows a user to see what products are a
 
 
 
-*The final two screenshots show the results of the user requesting an order amount of a product tha exceeds the inventory level.*
+*The final screenshot shows the results of the user requesting an order amount of a product that exceeds the inventory level.*
 ![screenshot 7 node js](https://user-images.githubusercontent.com/30198872/35378281-3b7333f8-0180-11e8-98ba-872a15a80a28.png)
-![screenshot 8 node js](https://user-images.githubusercontent.com/30198872/35378286-3d56cdce-0180-11e8-9cfa-76ec3207888a.png)
 
 ______________________________________________________________________
 
