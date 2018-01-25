@@ -37,4 +37,4 @@ I kept my twitter and spotify api keys private to my computer by not having them
 
 
 
-![GitHub Logo](/images/Screenshot 1 (mySQL database).png)
+![GitHub Logo](/images/"Screenshot 1 (mySQL database).png")
