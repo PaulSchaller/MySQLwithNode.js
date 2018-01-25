@@ -41,7 +41,7 @@ This is a very interactive program that allows a user to see what products are a
 ______________________________________________________________________
 
 
-To run the program, the user will need the npm packages inquirer and mysql installed.  The user starts the program on the Node.js command line with the entry *node bamazonCustomer.js* .
+To run the program, the user will need the npm packages of inquirer and mysql installed.  The user starts the program on the Node.js command line with the entry *node bamazonCustomer.js* .
 
 
 
