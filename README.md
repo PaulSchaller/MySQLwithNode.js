@@ -42,9 +42,7 @@ This is a very interactive program that allows a user to see what products are a
 ______________________________________________________________________
 
 
-To run the program you will need the npm packages of fs (in node), twitter, spotify, and request.  You can install twitter with the command line entry [npm install twitter].  You can install request with the command line entry [npm install request].  You can install spotify with the command line entry [npm install --save node-spotify-api].
-
-I kept my twitter and spotify api keys private to my computer by not having them posted to github with special file management.  To run this program, the user will need to supply their own api keys.
+To run the program, the user will need the npm packages inquirer and mysql installed.  The user starts the program on the Node.js command line with the entry *node bamazonCustomer.js* .
 
 
 
