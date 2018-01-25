@@ -14,9 +14,14 @@ This is a very interactive program that allows a user to see what products are a
 ![screenshot 3 mysql database](https://user-images.githubusercontent.com/30198872/35378271-33f6b19a-0180-11e8-8a65-09e913e0170a.png)
 
 
+
+
 *The nexxt screenshot shows the listing of the products that the user will see on his screen.  After seeing the listing on the screen, the user is prompted to select a product to purchase.*
 
 ![screenshot 4 node js](https://user-images.githubusercontent.com/30198872/35378273-35a06644-0180-11e8-99d0-aa9040bd1286.png)
+
+
+
 
 *After entering a product ID number, the user is prompted to select a quantity of units of this product to purchase.*
 
@@ -24,40 +29,18 @@ This is a very interactive program that allows a user to see what products are a
 
 
 
-
-
-
+*The order is then processed and the user is informed of the total cost of the purchase.  The database in mySQL is updated to show the reduction in the inventory due to the purchase.*
 
 ![screenshot 6 node js](https://user-images.githubusercontent.com/30198872/35378279-398c1fb4-0180-11e8-9709-b51c5d05ae62.png)
+
+
+
+*The final two screenshots show the results of the user requesting an order amount of a product tha exceeds the inventory level.*
 ![screenshot 7 node js](https://user-images.githubusercontent.com/30198872/35378281-3b7333f8-0180-11e8-98ba-872a15a80a28.png)
 ![screenshot 8 node js](https://user-images.githubusercontent.com/30198872/35378286-3d56cdce-0180-11e8-9cfa-76ec3207888a.png)
 
 ______________________________________________________________________
 
-LIRI Node App supplies information to user requests through the interface of
-	a command line in node.js
-
-LIRI supplies detailed and extensive information on items with just short calls typed in 
-	by the user.  
-and entr
-There are four categories of information requests:
-	1.  my-tweets
-    2.  spotify-this-song
-    3.  movie-this
-	4.  do-what-it-says
-
-From the command line in node.js, the user types in "node liri.js" to start all requests for information.  After "node liri.js", the user types in one of the four categories just mentioned.  	
-For "my-tweets" and "do-what-it-says", this completes the request and the user hits enter to receive the 
-	results.  For "spotify-this-song", the user adds the name of the song he is interested in enclosed in quotation marks.  Then he enters the request.  For "movie-this", the user adds the name of a movie he is interested in enclosed in quotation marks.  Then he hits the enter button. 
-
-my-tweets will output the last 20 tweets of my twitter account along with the dates they were written.
-spotify-this-song will list five songs along with a preview link, artist, and album.
-movie-this will list the title, year, IMDB rating, Rotten Tomatoes Rating, country, language, plot, and 
-	actors of the movie.
-do-what-it-says will read a file and take information from that file to initiate a request for 
-	information on a song.
-
-The information output to the screen will also be saved to a (log) file.
 
 To run the program you will need the npm packages of fs (in node), twitter, spotify, and request.  You can install twitter with the command line entry [npm install twitter].  You can install request with the command line entry [npm install request].  You can install spotify with the command line entry [npm install --save node-spotify-api].
 
